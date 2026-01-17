@@ -1,0 +1,11 @@
+{
+  "name": "Đường Hoàng Sa",
+  "image": "/images/hoang-sa.jpg",
+  "route": {
+    "start": "Giáp đường Huỳnh Thúc Kháng",
+    "end": "Giáp đường Lê Vĩnh Huy",
+    "length": "0.3 km",
+    "width": ""
+  },
+  "meaning": "Hoàng Sa là quần đảo thiêng liêng của Tổ quốc Việt Nam, thuộc tỉnh Quảng Nam – Đà Nẵng quản lý trước đây, nay thuộc thành phố Đà Nẵng. Tên đường thể hiện chủ quyền quốc gia, nhắc nhở mỗi người dân về trách nhiệm bảo vệ biển đảo"
+}
