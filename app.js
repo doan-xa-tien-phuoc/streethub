@@ -1,7 +1,7 @@
 // Configuration
 const CONFIG = {
     // Cập nhật BASE_URL này với domain của bạn khi deploy
-    BASE_URL: 'https://doan-xa-tien-phuoc.github.io', // Ví dụ: 'https://streethub.github.io'
+    BASE_URL: 'https://doan-xa-tien-phuoc.github.io/streethub', // Ví dụ: 'https://streethub.github.io'
     QR_API: 'https://api.qrserver.com/v1/create-qr-code/'
 };
 
