@@ -1,6 +1,6 @@
 # 🗺️ StreetHub - Hệ Thống Tra Cứu Tên Đường
 
-Website tĩnh giúp tra cứu thông tin tên đường phố, giúp người dân hiểu được ý nghĩa của tên đường, lịch sử và các thông tin liên quan.
+Website tĩnh giúp tra cứu thông tin tên đường, giúp người dân hiểu được ý nghĩa của tên đường, lịch sử và các thông tin liên quan.
 
 ## 📋 Mô Tả Dự Án
 
@@ -159,7 +159,6 @@ Chỉnh sửa biến CSS trong file `styles.css`:
 15. Đường Đặng Thùy Trâm
 16. Đường Nguyễn Du
 17. Đường Lê Vĩnh Khanh
-18. Đường Mẹ Thứ
 
 ## 🤝 Đóng Góp
 
