@@ -1,11 +1,12 @@
 {
-  "name": "Đường Phan Châu Trinh (1872 – 1926)",
+  "name": "Đường Phan Châu Trinh",
   "image": "/streethub/images/phan-chau-trinh.jpg",
   "route": {
-    "start": "Giáp đường 10/3",
-    "end": "Giáp xã Tiên Châu",
-    "length": "1.7km",
-    "width": ""
+    "start": "Giáp Cầu Sơn Yên",
+    "end": "Giáp đường Phan Châu trinh",
+    "length": "1.22km",
+    "width": "3.5 - 5.5 mét"
   },
-  "meaning": "Nhà cách mạng, lãnh tụ phong trào Duy Tân, chủ trương khai dân trí, chấn dân khí, hậu dân sinh; đấu tranh bất bạo động chống chế độ thực dân."
+  "meaning": "Phan Châu Trinh (1872 - 1926), hiệu là Tây Hồ, biệt hiệu Hy Mã, là một nhà cải cách vĩ đại và là nhà tư tưởng dân chủ tiên phong trong lịch sử Việt Nam đầu thế kỷ XX. Quê tại Tiên Phước, Quảng Nam, ông nổi tiếng với chủ trương "Khai dân trí, chấn dân khí, hậu dân sinh", từ bỏ con đường bạo động vũ trang để tập trung vào cuộc vận động Duy Tân đầy tiến bộ. Ông kiên định lập trường đấu tranh bằng con đường nâng cao trình độ dân trí, bãi bỏ hủ tục và phát triển kinh tế để tạo nội lực cho dân tộc trước khi đòi độc lập.
+Dù từng bị thực dân Pháp kết án tử hình (sau giảm thành đày đi Côn Đảo) và có nhiều năm bôn ba tại Pháp, Phan Châu Trinh vẫn giữ vững khí tiết sĩ phu và lòng yêu nước nồng nàn. Sự ra đi của ông năm 1926 đã dẫn đến một cuộc đại lễ truy điệu và biểu tình biến thành phong trào yêu nước rộng khắp cả nướ. Ông không chỉ là một người con ưu tú của xứ Quảng mà còn là biểu tượng của tinh thần đổi mới, đặt nền móng cho tư tưởng dân chủ và tiến bộ tại Việt Nam."
 }
