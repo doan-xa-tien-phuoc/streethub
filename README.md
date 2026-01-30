@@ -85,7 +85,6 @@ streethub/
     ├── dang-thuy-tram.json
     ├── nguyen-du.json
     ├── le-vinh-khanh.json
-    └── me-thu.json
 ```
 
 ## 🎨 Tùy Chỉnh
