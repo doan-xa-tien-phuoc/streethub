@@ -1,11 +1,11 @@
 {
-  "name": "Đường Hồ Truyền (1902 – 1967)",
+  "name": "Đường Hồ Truyền",
   "image": "/streethub/images/ho-truyen.jpg",
   "route": {
     "start": "Giáp đường Tôn Đức Thắng",
-    "end": "Tại nhà ông Võ Văn Thạn",
-    "length": "300 m",
-    "width": ""
+    "end": "Tại nhà ông Ban",
+    "length": "0.20 km",
+    "width": "5.5 m"
   },
-  "meaning": "Anh hùng Lực lượng Vũ trang Nhân dân, Bí thư Huyện ủy Nam Tam Kỳ, đã lãnh đạo và chiến đấu kiên cường, hy sinh năm 1967"
+  "meaning": "Hồ Truyền (1902 - 1967) là một nhà hoạt động cách mạng kiên trung, người con ưu tú của quê hương Tiên Phước, Quảng Nam. Tham gia cách mạng từ sớm, ông là một trong những đảng viên thuộc thế hệ đầu tiên của Đảng bộ huyện Tiên Phước và từng giữ những chức vụ quan trọng như Bí thư Huyện ủy Tiên Phước. Suốt hai cuộc kháng chiến chống Pháp và chống Mỹ, Hồ Truyền luôn gắn bó mật thiết với phong trào cách mạng tại địa phương, là người có công lớn trong việc xây dựng cơ sở Đảng và lãnh đạo nhân dân đấu tranh giữ đất, giữ làng. Với uy tín và lòng nhiệt huyết, ông đã trở thành chỗ dựa tinh thần vững chắc cho cán bộ và chiến sĩ vùng căn cứ cách mạng Tiên Phước trong những giai đoạn khó khăn khốc liệt nhất. Cuộc đời ông là minh chứng cho tinh thần bền bỉ, lòng trung thành vô hạn với lý tưởng độc lập dân tộc, góp phần làm rạng danh truyền thống cách mạng của vùng đất "địa linh nhân kiệt"."
 }
