@@ -1,11 +1,11 @@
 {
-  "name": "Đường Lê Vĩnh Huy (1842 – 1916)",
+  "name": "Đường Lê Vĩnh Huy",
   "image": "/streethub/images/le-vinh-huy.jpg",
   "route": {
     "start": "Giáp đường Huỳnh Thúc Kháng",
-    "end": "Giáp đường Hoàng Sa",
-    "length": "0.35 km",
-    "width": ""
+    "end": "Giáp Ngã 5 Cầu Chìm",
+    "length": "0.30 km",
+    "width": "7.5 mét"
   },
-  "meaning": "Chí sĩ yêu nước, con trai danh thần Lê Vĩnh Khanh. Ông tham gia phong trào Nghĩa hội Quảng Nam chống Pháp, nổi tiếng với tinh thần kiên trung và lòng tận tụy vì dân, vì nước"
+  "meaning": "Lê Vĩnh Huy (1842 - 1916), tên thật là Lê Ngọc Cung, là một chí sĩ yêu nước tiêu biểu của vùng đất Tiên Phước, Quảng Nam. Xuất thân trong một gia đình khoa bảng, ông sớm dấn thân vào con đường cứu nước và trở thành một trong những lãnh đạo chủ chốt của phong trào Nghĩa Hội Quảng Nam chống Pháp dưới quyền Nguyễn Duy Hiệu. Với tư duy tiến bộ, ông không chỉ tham gia khởi nghĩa vũ trang mà còn tích cực ủng hộ phong trào Duy Tân của Phan Bội Châu, thậm chí đã bán đi phần lớn gia tài của gia đình để hỗ trợ thanh niên du học trong phong trào Đông Du. Năm 1916, ông tiếp tục tham gia cuộc mưu khởi của Việt Nam Quang phục hội cùng Trần Cao Vân và Thái Phiên nhưng sự việc bất thành. Lê Vĩnh Huy bị thực dân Pháp bắt giam và mất trong nhà lao Hội An cùng năm đó. Cuộc đời ông là một tấm gương sáng về tinh thần kiên trung, sự hy sinh quên mình và lòng tận tụy với sự nghiệp độc lập của dân tộc."
 }
